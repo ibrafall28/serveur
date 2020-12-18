@@ -1,0 +1,10 @@
+projet\java\service\EntreDao.class
+projet\java\service\ProduitDao.class
+projet\java\service\UserDao.class
+projet\java\utils\HibernateUtil.class
+projet\java\service\AdminDao.class
+App.class
+projet\java\service\ClientDao.class
+projet\java\service\FactureDao.class
+projet\java\service\CommandeDao.class
+projet\java\service\ProfilDao.class
